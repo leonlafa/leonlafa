@@ -3,6 +3,5 @@
 <h4>Shaping the world 1 bit at a time. STEM advocate.</h4>
 </div>
 
-<img alt="my-desk" src="https://github.com/leonlafa/leonlafa/blob/main/hacktoberfest-complete.png" width=100%/>
 <img alt="my-desk" src="https://github.com/leonlafa/leonlafa/blob/main/my-desk.png" width=100%/>
 
